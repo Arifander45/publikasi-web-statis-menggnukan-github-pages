@@ -1,3 +1,3 @@
 # publikasi-web-statis-menggnukan-github-pages
 
-ini saya punya tugas Day00 di github
+ini saya punya hasil pembelajaran tugas Day00 menggunakan github
